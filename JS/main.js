@@ -9,8 +9,8 @@ console.log(bike)
 for (const bikes of bike) {
     console.log(bikes.id)      
 }
-let user='1';
-let password= '1';
+let user='1234';
+let password= '1234';
 function login(){
     let validar=false;
     for (let i = 2; i>= 0; i--){
